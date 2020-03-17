@@ -17,7 +17,9 @@
 
 #### how do i use?
 To use this you can either use a direct link from this gitlab repo. This is a short "tutorial":
+
 ![alt text](https://i.imgur.com/84L1uyF.gif "guidethingy").
+
 The part after I clicked "Open Image in new tab" was me switching tabs. Also if you're doing this way, use Ctrl+F to find the image you're looking for. Will be way faster than scrolling.
 
 You could also just download this, then upload on Google Docs or something. idk.
