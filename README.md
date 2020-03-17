@@ -24,3 +24,5 @@ The part after I clicked "Open Image in new tab" was me switching tabs. Also if 
 
 You could also just download this, then upload on Google Docs or something. idk.
 enjoy.
+
+[The original repo is over on GitLab!](https://gitlab.com/SaviorEdge/pokemon-icons-gen-8)
